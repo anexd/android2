@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="Login"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="Login para Entrar"
+        android:title="SetarLogin" />
+    <EditTextPreference
+        android:key="password"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="Senha para entrar no sistema"
+        android:title="Setar Senha" />
+    <CheckBoxPreference
+        android:key="showLogin"
+        android:summary="Preencher login na tela inicial"
+        android:title="Preencher login" />
+</PreferenceScreen>

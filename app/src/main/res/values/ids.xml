@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textBemVindo" type="id" />
+    <item name="editPassword" type="id" />
+</resources>

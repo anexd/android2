@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlainText</string>
+    <string name="editDigite">Digite suas credenciais para continua</string>
+    <string name="textlogin">Login</string>
+    <string name="textSenha">Senha</string>
+    <string name="checkbox">Salvar informacao de login</string>
+    <string name="bntEntrar">Entrar</string>
+    <string name="sobre">Sobre</string>
+    <string name="configs">configuracao</string>
+</resources>
